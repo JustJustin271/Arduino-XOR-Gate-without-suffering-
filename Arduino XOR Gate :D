@@ -27,3 +27,5 @@ void loop() {
   }
   delay(50); //Prevents buttons from being "jumpy"
 }
+//XOR Gate Completed :D
+//January 11th, 2026
